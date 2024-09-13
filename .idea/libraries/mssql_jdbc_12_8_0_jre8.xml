@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-12.8.0.jre8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Microsoft JDBC DRIVER 12.8 for SQL Server/sqljdbc_12.8/rus/jars/mssql-jdbc-12.8.0.jre8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Microsoft JDBC DRIVER 12.8 for SQL Server/sqljdbc_12.8/rus/jars/mssql-jdbc-12.8.0.jre8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
